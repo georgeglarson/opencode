@@ -1,0 +1,27 @@
+packages/opencode/src/tool/task.ts
+  bfc5406dbe7283ff 9,12-13,31-33,140-145,147-186,198
+packages/core/src/flag/flag.ts
+  bfc5406dbe7283ff 69
+packages/opencode/test/tool/task.test.ts
+  bfc5406dbe7283ff 387-462
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "2806c94e4885e487c845a88d9529e5289a72fd81",
+  "prompts": {
+    "bfc5406dbe7283ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7ecc469a-15fa-4bc0-b969-2f4cece7dcbc",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "george larson",
+      "messages": [],
+      "total_additions": 13999,
+      "total_deletions": 717,
+      "accepted_lines": 13995,
+      "overriden_lines": 0
+    }
+  }
+}
